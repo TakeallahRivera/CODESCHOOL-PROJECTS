@@ -1,0 +1,25 @@
+.centered_paragraph {
+    background-color: fuchsia;
+}
+
+#lorem {
+    border: purple 2px solid;
+
+    
+}
+
+p {
+    color: darkblue; 
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#playground{
+    background-color: darkgoldenrod;
+}
+
+.blueredtext {
+    color: darkgreen;
+    background-color: darkseagreen;
+}
+

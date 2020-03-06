@@ -1,0 +1,28 @@
+
+body{
+
+    text-align: center;
+}
+
+h1{
+    color: white
+}
+
+.one{
+    background: red;
+    float: left;
+}
+
+.two{
+   float: right;
+    background: blue;
+}
+
+.three{
+    clear: both;
+    background: green;
+}
+
+#bluetext{
+    color: blue;
+}
